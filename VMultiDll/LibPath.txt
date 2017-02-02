@@ -1,0 +1,10 @@
+SetupAPI.Lib 	C:\Program Files (x86)\Windows Kits\8.0\Lib\win8\um\x86
+Hid.lib 	C:\Program Files (x86)\Windows Kits\8.0\Lib\win8\um\x86
+
+Hidclass.lib 	C:\Program Files (x86)\Windows Kits\10\Lib\win7\km\x86
+Hidparse.lib 	C:\Program Files (x86)\Windows Kits\10\Lib\win7\km\x86
+
+hidparse.sys 	C:\Windows\System32\drivers
+hid.dll 	C:\Windows\System32
+setupapi.dll	C:\Windows\System32
+advapi32.dll 	C:\Windows\System32
